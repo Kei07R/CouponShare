@@ -1,0 +1,31 @@
+admin:-
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiYWRtaW5AZ21haWwuY29tIiwiaWQiOiI2NjA4MmVlZDU1MmYxYTZlY2JkZWUwNDEifSwiaWF0IjoxNzExODEzMTYxLCJleHAiOjE3MTE4MzExNjF9.59Mz_BfFGlz7I5xlSJJB6V85hIyx-iM5xTntLLNBBJI
+
+user1:-
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoidXNlcjFAZ21haWwuY29tIiwiaWQiOiI2NjA4MmVkNzU1MmYxYTZlY2JkZWUwM2IifSwiaWF0IjoxNzExODEyNDUxLCJleHAiOjE3MTE4MzA0NTF9.5Kj_-hWih8hM7mo_P8rQsf8QyxJWdmVdYpoR-Zz-dxc
+
+user2:-
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoidXNlcjJAZ21haWwuY29tIiwiaWQiOiI2NjA4MmVlMDU1MmYxYTZlY2JkZWUwM2UifSwiaWF0IjoxNzExODEyOTU2LCJleHAiOjE3MTE4MzA5NTZ9.xHE3ABemwv7FIEFa5Uac5PkSon66n09MHtdHTQjr3z8
+
+Register Format :-
+{
+    "username":"user1",
+    "email":"user1@gmail.com",
+    "password":"user1"
+}
+
+Login Format :-
+{
+    "email":"user1@gmail.com",
+    "password":"user1"
+}
+
+Coupon Fomat :-
+{
+    "coupon_code": "SAMPLECODE123",
+    "expiry_date": "2024-04-30",
+    "brand": "Sample Brand",
+    "price": 10,
+    "img": "https://example.com/sample-image.jpg",
+    "desc": "This is a sample coupon description."
+}
